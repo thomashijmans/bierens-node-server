@@ -42,3 +42,5 @@ app.use('/',(req,res,next)=>{
 
 //Server creation
 app.listen(3000);
+
+console.log('test github');
